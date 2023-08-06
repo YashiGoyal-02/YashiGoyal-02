@@ -11,13 +11,9 @@ Greetings, I'm Yashi, and my mission is to tackle real-world challenges. I posse
 
 <!-- Your badges -->
 
-[![Linkedin](https://img.shields.io/badge/-YashiGoyal-02-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashigoyal)
+[![LinkedIn](https://img.shields.io/badge/-YashiGoyal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashigoyal)
 [![Gmail](https://img.shields.io/badge/-yashigoyal02-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yashigoyal02@gmail.com)
 [![Instagram](https://img.shields.io/badge/-_yashi_0702-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_yashi_0702/)
-
-<a href="https://www.linkedin.com/in/yashigoyal" target="_blank"><img src="https://img.shields.io/badge/-YashiGoyal-02-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:yashigoyal02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-yashigoyal02-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.instagram.com/_yashi_0702/" target="_blank"><img src="https://img.shields.io/badge/-_yashi_0702-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 
 <!-- Profile View Count and GitStats -->
