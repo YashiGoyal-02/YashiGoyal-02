@@ -18,7 +18,7 @@ Greetings, I'm Yashi, and my mission is to tackle real-world challenges. I posse
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=YashiGoyal-02&style=flat)
-[![Github](https://img.shields.io/badge/-YashiGoyal-02-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/YashiGoyal-02) 
+[![Github](https://img.shields.io/badge/-YashiGoyal-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/YashiGoyal-02) 
 
 
 <!-- current status -->
