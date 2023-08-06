@@ -17,8 +17,8 @@ Greetings, I'm Yashi, and my mission is to tackle real-world challenges. I posse
 
 
 <!-- Profile View Count and GitStats -->
-<!--![](https://komarev.com/ghpvc/?username=keshav-06&style=flat)
-[![Github](https://img.shields.io/badge/-Keshav-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/keshav-06) -->
+![](https://komarev.com/ghpvc/?username=YashiGoyal-02&style=flat)
+[![Github](https://img.shields.io/badge/-Yashi-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/YashiGoyal-02) 
 
 
 <!-- current status -->
@@ -27,10 +27,3 @@ Greetings, I'm Yashi, and my mission is to tackle real-world challenges. I posse
 * Full Stack Development 
 * Some Personal Projects 
 
-   <!-- gif Image -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
-
-<!---
-keshav-06/keshav-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
